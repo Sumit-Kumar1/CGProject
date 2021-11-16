@@ -1,8 +1,13 @@
 #pragma once
 
-#include <iostream>
-#include <conio.h>
+#ifndef HEADER_H
+#define HEADER_H
 
-// Graphics releated includes
-#include <SFML/Graphics.hpp>
+// Graphics related includes
 #include <glm/glm.hpp>
+#include <SFML/Graphics.hpp>
+
+// define other includes here
+#include <iostream>
+
+#endif
