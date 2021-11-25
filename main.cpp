@@ -1,5 +1,12 @@
-//header file includest
-#include "Header.h"
+#include <string>
+#include <cstdlib>
+#include <vector>
+#include <SFML/Graphics.hpp>
+#include <iostream>
+
+#include "Enemy.h"
+#include "AttackFlash.h"
+#include "Hero.h"
 
 // >>>>>>>>>>> DEFINE FOR IFDEF <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 #if 1
