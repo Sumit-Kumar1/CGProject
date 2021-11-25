@@ -139,7 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AttackFlash.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Hero.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AttackFlash.h" />
+    <ClInclude Include="Enemy.h" />
     <ClInclude Include="Header.h" />
+    <ClInclude Include="Hero.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\adventurer-idle-00.png" />
+    <Image Include="Assets\BGImage.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

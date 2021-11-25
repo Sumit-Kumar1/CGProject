@@ -3,11 +3,20 @@
 #ifndef HEADER_H
 #define HEADER_H
 
-// Graphics related includes
-#include <glm/glm.hpp>
+//-------------- additional dependencies includes <Graphics> -------
 #include <SFML/Graphics.hpp>
+//------------------------------------------------------------------
 
-// define other includes here
+//-------------- STL includes----------------------------------------
 #include <iostream>
+#include <vector>
+#include <cstdlib>
+//-------------------------------------------------------------------
+
+//--------- Project created headers----------------------------------
+#include "Hero.h"
+#include "Enemy.h"
+#include "AttackFlash.h"
+//-------------------------------------------------------------------
 
 #endif
