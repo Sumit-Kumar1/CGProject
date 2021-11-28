@@ -1,7 +1,7 @@
 # CGProject
 
 - This is my 6th semester project for Computer Graphics Lab.
-- This Project is maintained by Me and Yasharth Yadav.
+- This Project is maintained by [ME](https://github.com/Sumit-Kumar1) and [Yasharth Yadav](https://github.com/yasharth328).
 
 ## Project Specification
 
