@@ -7,7 +7,7 @@
 
 - OS Used : `` Linux - POP OS 21.04``
 - __g++ version__ : `` 10.0``
-- External Library Used : ``SFML`` <put link here for SFML>
+- External Library Used : [SFML C++](https://www.sfml-dev.org/)
 - **Build Command** : _``g++ Enemy.cpp Hero.cpp AttackFlash.cpp main.cpp -o main -std=c++17 -lsfml-system -lsfml-window -lsfml-graphics``_
 - Default Screen Resolution : ``1280*720``
 - Standard Frame Rate count : ``60``
