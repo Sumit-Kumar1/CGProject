@@ -27,7 +27,7 @@
 
 ## Contact :
 - if you have any suggetions and any feature or want to contribute to this poject 
-Mail me at: [Email](kumarsumitjat298@gmail.com)
+Mail me at: [Sumit Kumar](mailto:kumarsumitjat298@gmail.com)
 
 ## Previews
 ![Screenshot](vd1.png)
