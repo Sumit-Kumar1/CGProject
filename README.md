@@ -34,3 +34,12 @@ Mail me at: [Sumit Kumar](mailto:kumarsumitjat298@gmail.com)
 
 ![Screenshot](vd1.png)
 ![Screenshot](vd2.png)
+
+## Issue Creation Guide
+
+- Thanks for playing the game. We hope you like this game.
+- The below are some things you need to follow for creating a issue.
+  1. The issue will start with a Number and in format as `CG{XX} - {your issue title}`
+  2. You need to provide a proper description for the issue
+  3. In case it is a Bug then please provide the steps for recreating bug in its description. Also the system and library build logs.
+  
